@@ -30,8 +30,8 @@ A web-based Employee Management System built using **React** that allows organiz
    git clone https://github.com/rahulm-04/employeemgmntsys
    cd employee-management-system
    
-3. **Install dependencies:**
+2. **Install dependencies:**
     npm install
    
-5. **Run the development servers:**  
+3. **Run the development servers:**  
     npm run dev    
