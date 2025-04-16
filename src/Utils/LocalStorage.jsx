@@ -48,30 +48,30 @@ const employees = [
     },
     {
         "id": 2,
-        "firstName": "Sneha",
+        "firstName": "Riya",
         "email": "employee2@example.com",
         "password": "123",
         "taskCounts": {
             "active": 1,
             "newTask": 0,
-            "completed": 1,
-            "failed": 0
+            "completed": 0,
+            "failed": 1
         },
         "tasks": [
             {
-                "active": true,
+                "active": false,
                 "newTask": false,
                 "completed": false,
-                "failed": false,
+                "failed": true,
                 "taskTitle": "Database optimization",
                 "taskDescription": "Optimize queries for better performance",
                 "taskDate": "2024-10-11",
                 "category": "Database"
             },
             {
-                "active": false,
-                "newTask": false,
-                "completed": true,
+                "active": true,
+                "newTask": true,
+                "completed": false,
                 "failed": false,
                 "taskTitle": "Design new feature",
                 "taskDescription": "Create mockups for the new feature",
