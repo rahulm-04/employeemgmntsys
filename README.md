@@ -3,8 +3,8 @@ A web-based Employee Management System built using **React** that allows organiz
 
 
 ## Usage
--TO LOGIN USE THESE CREDENTIALS - AS ADMIN - EMAIL:admin@me.com  PASSWORD:123
-                               AS EMPLOYEE - EMAIL:employee1@example.com PASSWORD:123
+-TO LOGIN USE THESE CREDENTIALS - AS ADMIN : EMAIL:admin@me.com  PASSWORD:123
+                                  AS EMPLOYEE : EMAIL:employee1@example.com PASSWORD:123
                                the credentials for various employees is provided in Utils folder under the file LocalStorage.jsx 
 -FILL ALL THE REQUIRED DETAILS TO ASSIGN TASK TO RESPECTIVE EMPLOYEE                               
 
